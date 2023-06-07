@@ -27,15 +27,15 @@ Next.js - The Full Course provides a in-depth look into the Next.js App Router i
 
 ## What will I learn?
 
-👨‍🎤 Everything you need to be productive with modern Next.js
-⚡ Complex topics explained in 100 seconds
-📚 Design patterns with React Server Components (RSC)
-💎 How to choose optimal rendering strategies
-🚅 Dynamic routing and project organization
-🔥 Advanced data fetching and caching
-👲 User authentication with Auth.js
-📅 Data modeling with Postgres and Primsa
-🤔 How to migrate from previous versions of Next.js
+* 👨‍🎤 Everything you need to be productive with modern Next.js
+* ⚡ Complex topics explained in 100 seconds
+* 📚 Design patterns with React Server Components (RSC)
+* 💎 How to choose optimal rendering strategies
+* 🚅 Dynamic routing and project organization
+* 🔥 Advanced data fetching and caching
+* 👲 User authentication with Auth.js
+* 📅 Data modeling with Postgres and Primsa
+* 🤔 How to migrate from previous versions of Next.js
 
 ## 🦄 What will I build?
 You will build a simple Social Media Platform inspired by sites like MySpace and Facebook where users can befriend each other. The goal of this project is to introduce you to Next’s rendering, data-fetching, and caching strategies.
