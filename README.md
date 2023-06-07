@@ -18,6 +18,34 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Next.js - The Full Course
+
+[Next.js - The Full Course](https://fireship.io/courses/nextjs/)
+Master the fundamentals of Next.js 13 and the App Router
+
+Next.js - The Full Course provides a in-depth look into the Next.js App Router introduced in version 13.2. It puts React Server Components into practice by building a full-stack application from scratch with PostgreSQL and Prisma.
+
+## What will I learn?
+
+👨‍🎤 Everything you need to be productive with modern Next.js
+⚡ Complex topics explained in 100 seconds
+📚 Design patterns with React Server Components (RSC)
+💎 How to choose optimal rendering strategies
+🚅 Dynamic routing and project organization
+🔥 Advanced data fetching and caching
+👲 User authentication with Auth.js
+📅 Data modeling with Postgres and Primsa
+🤔 How to migrate from previous versions of Next.js
+
+## 🦄 What will I build?
+You will build a simple Social Media Platform inspired by sites like MySpace and Facebook where users can befriend each other. The goal of this project is to introduce you to Next’s rendering, data-fetching, and caching strategies.
+
+## 🤔 Is this Course Right for Me?
+This course is intermediate level 🟦 and expects some familiarity with React.js, JavaScript, and web development. The content is fast-paced and similar to my style on YouTube, but far more in-depth and should be followed in a linear format.
+
+## When was the course last updated?
+Updated May 1st, 2023 next v13.4
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
