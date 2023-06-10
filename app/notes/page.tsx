@@ -1,12 +1,28 @@
 import Link from "next/link";
 import styles from './Notes.module.css';
+// import PocketBase from 'pocketbase';
+// import { idText } from "typescript";
+
+export const dynamic = 'auto',
+  dynamicParams = true,
+  revalidate = 0,
+  fetchCache = 'auto',
+  runtime = 'nodejs',
+  preferredRegion = 'auto'
 
 async function getNotes() {
+  // Approach 1
   const res = await fetch('http://127.0.0.1:8090/api/collections/notes/records?page=1&perPage=30',
     { cache: 'no-store' }
   );
-  const data = await res.json();
+  const data = await res.json()
   return data?.items as any[];
+
+  // Approach 2
+  // const db = new PocketBase('http://127.0.0.1:8090')
+  // const data = await db.admins.getList('notes');
+  // const data = await db
+  // return data?.items as any[];
 }
 
 export default async function NotesPage() {
